@@ -18,4 +18,4 @@ Express
 Angular.js
 
 ## Links
-heroku <http://www.example.com>
+heroku <https://expedia-offers.herokuapp.com/#/hotels>
