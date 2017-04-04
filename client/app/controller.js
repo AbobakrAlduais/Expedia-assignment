@@ -8,7 +8,7 @@ controller.controller('expediaController', function ($scope,expediaService) {
 		});
 	};
 });
-
+// use filter to decode URLs
 controller.filter('decodeURIComponent', function() {
 	return window.decodeURIComponent;
 });
