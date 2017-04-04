@@ -1,17 +1,17 @@
 # Expedia-technical assignment
 
-#Prerequisites
+## Prerequisites
 Nodejs
 
-#Installing
+## Installing
 clone this repo on your device
 In your terminal, run "npm install"
 run node server.js
 
-#Built With
+##Built With
 NodeJs
 Express
 Angular.js
 
-#Links
+##Links
 heroku
