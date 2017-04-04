@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "postinstall": "npm install -g nodemon",
-    "start": "nodemone server.js",
-    "test": "vows --spec"
+    "start": "nodemone server.js"
+    
   },
   "keywords": [],
   "author": "",
