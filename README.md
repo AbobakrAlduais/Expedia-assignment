@@ -18,4 +18,4 @@ Express
 Angular.js
 
 ## Links
-heroku
+heroku <http://www.example.com>
