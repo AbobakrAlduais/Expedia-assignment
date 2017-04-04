@@ -10,10 +10,12 @@ In your terminal, run "npm install"
 
 run node server.js
 
-##Built With
+## Built With
 NodeJs
+
 Express
+
 Angular.js
 
-##Links
+## Links
 heroku
